@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="tab_title_1">Shanghai</string>
+    <string name="tab_title_2">Scene</string>
+    <string name="tab_title_3">Restaurant</string>
+    <string name="tab_title_4">Art</string>
+    <string name="tab_title_5">Sports</string>
+</resources>

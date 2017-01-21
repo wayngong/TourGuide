@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">上海旅游向导</string>
+
+    <string name="tab_title_1">东方明珠</string>
+    <string name="tab_title_2">上海体育场</string>
+    <string name="tab_title_3">锦江乐园</string>
+    <string name="tab_title_4">迪士尼</string>
+
+    <!-- 东方明珠 -->
+    <string name="name_place_1">东方明珠</string>
+    <string name="address_place_1">浦东世纪大道1号</string>
+
+    <string name="oriental_name_1">苏浙总会</string>
+    <string name="oriental_address_1">世纪大道8号国金中心4楼L4-13</string>
+
+    <string name="oriental_name_2">孔乙己尚宴</string>
+    <string name="oriental_address_2">滨江大道2100号</string>
+
+    <string name="oriental_name_3">上海国际会议中心</string>
+    <string name="oriental_address_3">滨江大道2727号(近丰和路)</string>
+
+    <string name="oriental_name_4">威尔士健身会所(正大店)</string>
+    <string name="oriental_address_4">陆家嘴西路168号7楼(近东方明珠)</string>
+
+    <string name="oriental_name_5">人民英雄纪念塔</string>
+    <string name="oriental_address_5">中山东一路500号黄浦公园(近黄浦公园)</string>
+
+    <string name="oriental_name_6">怡和洋行旧址</string>
+    <string name="oriental_address_6">中山东一路27号(北京东路口)</string>
+
+    <!-- 锦江乐园 -->
+    <string name="name_place_2">锦江乐园</string>
+    <string name="address_place_2">虹梅路201号</string>
+
+    <string name="park_name_1">锦江士林夜市</string>
+    <string name="park_address_1">虹梅路201号</string>
+
+    <string name="park_name_2">馨裕轩大酒店</string>
+    <string name="park_address_2">沪闵路7966号</string>
+
+    <string name="park_name_3">金时代顺风大酒店(莲花广场店)</string>
+    <string name="park_address_3">沪闵路7866号莲花广场4楼</string>
+
+    <string name="park_name_4">丰收日(莲花广场店)</string>
+    <string name="park_address_4">沪闵路7866号莲花广场</string>
+
+    <string name="park_name_5">食八档</string>
+    <string name="park_address_5">沪闵路莲花国际广场b1-22号</string>
+
+    <string name="park_name_6">赤坂亭铁板烧(莲花广场店)</string>
+    <string name="park_address_6">沪闵路7866号莲花国际广场2楼</string>
+
+    <!--上海体育场-->
+    <string name="name_place_3">上海体育场</string>
+    <string name="address_place_3">天钥桥路666号</string>
+
+    <string name="stadium_name_1">上海体育场攀岩运动中心</string>
+    <string name="stadium_address_1">天钥桥路666号上海体育场6号楼梯上(近中山南二路)</string>
+
+    <string name="stadium_name_2">MC精品真人密室逃脱(徐汇店)</string>
+    <string name="stadium_address_2">天钥桥路580号星游城5楼01A</string>
+
+    <string name="stadium_name_3">萤火之森私人影院VR游戏体验</string>
+    <string name="stadium_address_3">万体馆斜土路2601号嘉汇广场T2栋6E室</string>
+
+    <string name="stadium_name_4">百乐门酒吧(徐汇旗舰店)</string>
+    <string name="stadium_address_4">天钥桥路666号</string>
+
+    <string name="stadium_name_5">禅ZEN日本料理</string>
+    <string name="stadium_address_5">零陵路800号上海富豪东亚酒店一楼</string>
+
+    <string name="stadium_name_6">煲宫(八万人体育场店)</string>
+    <string name="stadium_address_6">天钥桥路666号上海体育场3号扶梯附近</string>
+
+    <string name="stadium_name_7">塔哈尔(星游城店)</string>
+    <string name="stadium_address_7">天钥桥路580号星游城5楼07号</string>
+
+    <!--迪士尼-->
+    <string name="name_place_4">迪士尼</string>
+    <string name="address_place_4">川沙镇申迪北路753号</string>
+
+    <string name="disney_name_1">星愿公园</string>
+    <string name="disney_address_1">上海迪士尼乐园度假区</string>
+
+    <string name="disney_name_2">上海迪士尼乐园酒店</string>
+    <string name="disney_address_2">申迪西路1009号</string>
+
+    <string name="disney_name_3">上海玩具总动员酒店</string>
+    <string name="disney_address_3">申迪西路360号</string>
+
+    <string name="disney_name_4">bluefrog 蓝蛙</string>
+    <string name="disney_address_4">迪士尼小镇（百老汇大道）申迪西路255弄755号</string>
+    
+    <string name="disney_name_5">一風堂拉面</string>
+    <string name="disney_address_5">迪士尼小镇（百食香街）申迪西路255弄715号</string>
+
+    <string name="disney_name_6">THE BOATHOUSE 船屋</string>
+    <string name="disney_address_6">迪士尼小镇（湖畔）申迪西路255弄825号</string>
+
+</resources>
